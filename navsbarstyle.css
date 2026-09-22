@@ -1,0 +1,22 @@
+html{
+scroll-behavior: smooth;
+}
+body{
+background:coral;
+font-family: Arial, sans-serif;
+color:black;
+}
+.navigation-link{
+border:dotted transparent 3px;
+}
+.navigation-link:hover{
+text-decoration: none;
+border-bottom: white 1px solid;
+}
+i.fa code{
+width:500px;
+height:400px;
+}
+.container-fluid{
+background:black;
+}
